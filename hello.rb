@@ -9,7 +9,7 @@ class Hello
   end
 
   def goodbye
-    "Goodbye."
+    "Goodbye.."
   end
 
 end
